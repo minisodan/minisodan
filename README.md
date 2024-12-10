@@ -51,9 +51,6 @@ You can email me at **mylesmasonn@gmail.com** for collaboration, feedback, or ju
 
 ---
 
-<h3 align="center">Thanks for visiting! 😊</h3>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
