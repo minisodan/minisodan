@@ -31,7 +31,8 @@ Feel free to explore them! 💻
 You can contact me through the following channels:
 
 - ✉ [Email](mailto:mylesmasonn@gmail.com)
-- &#xf08c; [LinkedIn](https://www.linkedin.com/in/masonmyles/)
+- ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)
+(https://www.linkedin.com/in/masonmyles/)
 
 ## 🔗 My Socials
 
