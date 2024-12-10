@@ -1,16 +1,8 @@
-<h1 align="center">Hi, I'm Mason Myles 👋</h1>
+<h1 align="center">Hi, I'm Mason Myles </h1>
 
 <p align="center">
   <i>Full-stack Developer | Tech Enthusiast | Lifelong Learner</i>
 </p>
-
----
-
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **Electron**, **Spring Boot**, and **Next.js** to expand my full-stack capabilities.
-- 💡 Passionate about creating intuitive and scalable applications.
-- 🛠️ Proficient in technologies like **JavaScript**, **React**, **Java**, **Node.js**, and **AWS**.
-- 🚀 Looking to collaborate on open-source projects and contribute to exciting web & software development challenges.
 
 ### 🔗 Connect with Me
 <p align="center">
@@ -21,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Mason Myles" height="30" width="40"/>
   </a>
   <a href="mailto:mylesmasonn@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email - Mason Myles" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email - Mason Myles" height="30" width="40"/>
   </a>
 </p>
 
@@ -36,18 +28,13 @@
 
 ### 🛠️ My Tech Stack
 - **Languages**: Python, JavaScript, Java, C#
-- **Frameworks**: React.js, Node.js, Spring Boot, Django, Next.js, Angular
-- **Tools**: Git, Docker, AWS, Postgresql, SQL, Linux
+- **Frameworks**: React.js, Node.js, Spring Boot, Django
+- **Tools**: Git, AWS, Postgresql, MySql, SQL, Linux
 
 ---
 
 ### 📂 My Projects
 All of my projects are available at [GitHub - minisodan](https://github.com/minisodan).
-
----
-
-### 📬 How to Reach Me
-You can email me at **mylesmasonn@gmail.com** for collaboration, feedback, or just to say hello!
 
 ---
 
