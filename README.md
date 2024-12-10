@@ -1,15 +1,58 @@
-<h1 align="center">Hi, Mason Myles</h1>
+<h1 align="center">Hi, I'm Mason Myles 👋</h1>
 
-- 🌱 I’m currently learning **Electron, SpringBoot, Next.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/minisodan](https://github.com/minisodan)
-
-- 📫 How to reach me **mylesmasonn@gmail.com** 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/masonmyles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mason Myles" height="30" width="40" /></a>
+<p align="center">
+  <i>Full-stack Developer | Tech Enthusiast | Lifelong Learner</i>
 </p>
+
+---
+
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **Electron**, **Spring Boot**, and **Next.js** to expand my full-stack capabilities.
+- 💡 Passionate about creating intuitive and scalable applications.
+- 🛠️ Proficient in technologies like **JavaScript**, **React**, **Java**, **Node.js**, and **AWS**.
+- 🚀 Looking to collaborate on open-source projects and contribute to exciting web & software development challenges.
+
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/masonmyles/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mason Myles" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/minisodan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Mason Myles" height="30" width="40"/>
+  </a>
+  <a href="mailto:mylesmasonn@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email - Mason Myles" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+### 📚 Currently Learning
+- **Electron**: Building desktop applications using web technologies.
+- **Spring Boot**: Developing powerful Java-based back-end applications.
+- **Next.js**: Leveraging React for full-stack development with optimized performance.
+
+---
+
+### 🛠️ My Tech Stack
+- **Languages**: Python, JavaScript, Java, C#
+- **Frameworks**: React.js, Node.js, Spring Boot, Django, Next.js, Angular
+- **Tools**: Git, Docker, AWS, Postgresql, SQL, Linux
+
+---
+
+### 📂 My Projects
+All of my projects are available at [GitHub - minisodan](https://github.com/minisodan).
+
+---
+
+### 📬 How to Reach Me
+You can email me at **mylesmasonn@gmail.com** for collaboration, feedback, or just to say hello!
+
+---
+
+<h3 align="center">Thanks for visiting! 😊</h3>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
