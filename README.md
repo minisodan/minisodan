@@ -30,8 +30,8 @@ Feel free to explore them! 💻
 
 You can contact me through the following channels:
 
-- 📧 [Email](mailto:mylesmasonn@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/masonmyles/)
+- ✉ [Email](mailto:mylesmasonn@gmail.com)
+- &#xf08c; [LinkedIn](https://www.linkedin.com/in/masonmyles/)
 
 ## 🔗 My Socials
 
