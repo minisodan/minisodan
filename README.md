@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mason Myles!
+# Hello, I'm Mason Myles!
 
 Welcome to my GitHub! I'm a passionate **Backend Software Engineer** with experience in **Java/Spring Boot**. I love working on personal projects and exploring new technologies. 😄
 
