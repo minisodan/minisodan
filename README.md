@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Carson Miller</h1>
-<h3 align="center">aka BowlBird</h3>
+<h1 align="center">Hi, Mason Myles</h1>
 
 - 🌱 I’m currently learning **Electron, SpringBoot, Next.js**
 
