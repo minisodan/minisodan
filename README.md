@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Mason Myles" height="30" width="40"/>
   </a>
   <a href="mailto:mylesmasonn@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/479589/email-18" alt="Email - Mason Myles" height="30" width="40"/>
+    <img src="![image](https://github.com/user-attachments/assets/ed62e96d-280f-4ab5-bb19-f0059bf216f2)" alt="Email - Mason Myles" height="30" width="40"/>
   </a>
 </p>
 
