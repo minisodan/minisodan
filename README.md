@@ -5,7 +5,7 @@
 </p>
 
 ### 🔗 Connect with Me
-<<p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/masonmyles/" target="_blank" style="margin-right: 6rem;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mason Myles" height="40" width="40"/>
   </a>
