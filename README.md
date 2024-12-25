@@ -20,9 +20,9 @@
 ---
 
 ### 📚 Currently Learning
-- **Electron**: Building desktop applications using web technologies.
+- **Tauri**: Building desktop applications using web technologies.
 - **Spring Boot**: Developing powerful Java-based back-end applications.
-- **Next.js**: Leveraging React for full-stack development with optimized performance.
+- **TypeScript**: Leveraging TypeScript based React for full-stack development with optimized performance.
 
 ---
 
